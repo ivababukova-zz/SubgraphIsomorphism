@@ -11,5 +11,12 @@
       <artifactId>spark-core_2.11</artifactId>
       <version>1.5.0</version>
     </dependency>
+    <dependency>
+      <groupId>groupId</groupId>
+      <artifactId>artifactId</artifactId>
+      <version>1.0</version>
+      <scope>system</scope>
+      <systemPath>${basedir}/cdk-1.4.19.jar</systemPath>
+    </dependency>
   </dependencies>
 </project>
