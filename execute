@@ -1,0 +1,1 @@
+~/bin/spark-1.5.0/bin/spark-submit --class "SubgraphIsomorphism" --master local[4] $PWD/target/subgraph-isomorphism-1.0.jar
